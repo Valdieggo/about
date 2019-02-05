@@ -1,2 +1,5 @@
 # about
+
+
+ Patience & Learning
 Info.
